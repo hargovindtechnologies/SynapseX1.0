@@ -1,4 +1,11 @@
-package com.synapsex.service;
+/**
+ * Copyright (c) 2025 Hargovind Technologies. All rights reserved.
+ * SPDX-License-Identifier: LicenseRef-Hargovind-1.0
+ *
+ * See the LICENSE file in the project root for license terms.
+ *
+ */
+ackage com.synapsex.service;
 
 import org.springframework.stereotype.Service;
 import synapsex.core.Tensor;
