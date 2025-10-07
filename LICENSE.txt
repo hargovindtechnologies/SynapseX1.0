@@ -1,0 +1,41 @@
+Hargovind Technologies License 1.0 (HTL-1.0)
+Copyright (c) 2025 Hargovind Technologies
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+1. Attribution. Redistributions of source code must retain the above copyright
+   notice, this list of conditions, and the following disclaimer. Redistributions
+   in binary form must reproduce the above copyright notice and this disclaimer
+   in the documentation and/or other materials provided with the distribution.
+
+2. Notice of Changes. If you modify the Software, you must include a prominent
+   notice stating that you changed the files.
+
+3. Patent Grant. Subject to the terms below, each contributor hereby grants a
+   perpetual, worldwide, non-exclusive, royalty-free patent license to make,
+   have made, use, offer to sell, sell, import, and otherwise transfer the
+   Software. This patent license shall terminate automatically if you initiate
+   patent litigation claiming that the Software infringes a patent.
+
+4. Disclaimer of Warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY
+   OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+5. Limitation of Liability. IN NO EVENT SHALL HARGOVIND TECHNOLOGIES OR
+   CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+   AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Termination. Your rights under this License will terminate automatically if
+   you fail to comply with the terms of this License.
+
+7. Governing Law. This License is governed by the laws of [State/Country]. Any
+   disputes arising under this License shall be resolved in the courts of
+   [State/Country]. (Optional: specify jurisdiction or remove to avoid
+   complexity — legal counsel can advise.)
+
+SPDX-License-Identifier: LicenseRef-Hargovind-1.0
