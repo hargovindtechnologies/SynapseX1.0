@@ -1,0 +1,7 @@
+synapsex/
+  core/
+    Tensor.java
+    TensorOps.java
+    Grad.java
+    Device.java
+    Shape.java
